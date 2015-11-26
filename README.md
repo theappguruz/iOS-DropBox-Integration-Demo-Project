@@ -6,6 +6,4 @@ The main objective of this repo is to describe how to integrate Dropbox framewor
 
 You can find complete tutorial on how to use this code repo here : <a href="http://www.theappguruz.com/blog/ios-dropbox-integration">iOS – Dropbox Integration</a>
 
-This Tutorial has been presented by The App 
-
-Guruz - One of the best <a href="http://www.theappguruz.com/mobile-application-development/">Mobile Application Development Company in India</a>
+This Tutorial has been presented by The App Guruz - One of the best <a href="http://www.theappguruz.com/mobile-application-development/">Mobile Application Development Company in India</a>
